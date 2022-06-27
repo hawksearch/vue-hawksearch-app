@@ -1,0 +1,32 @@
+.hawk .hawk-results .product-item-info {
+    width: 230px;
+}
+
+.hawk .hawk-facet-rail {
+    min-width: initial;
+}
+
+.hawk .hawk-results__listing_type_item {
+    display: inline-block;
+    margin-right: 3px;
+
+    svg {
+        width: 20px;
+        height: 20px;
+    }
+}
+
+.hawk-results__listing.hawk-results__listing_type__list {
+    display: block;
+
+    .product-item-info {
+        width: 100%;
+    }
+
+    .product.details.product-item-details {
+        display: inline-block;
+        vertical-align: top;
+        padding-top: 25px;
+        padding-left: 30px;
+    }
+}
